@@ -61,7 +61,7 @@ Actual: Non-Infected	      8	                        670
 ```
 (Exact values may vary slightly based on random seed and training session)
 
-![Confusion Matrix](https://github.com/Harsha-096/PCOS-Ultrasound-Image-Classification-using-Two-Stream-CNN-Transformer-Attention/blob/6630b41fe7be834d6dacd094057a41faf03f0256/Reports/Confusion%20Matrix.png)
+![Confusion Matrix](https://https://github.com/KapuRamyasree/PCOS-Ultrasound-Image-Classification-using-Two-Stream-CNN-Transformer-Attention/blob/7aa2547bf802a8d22afa6871d23e9b66c1267867/Reports/Confusion%20Matrix.png)
 
 🔹 Dataset Summary
 
